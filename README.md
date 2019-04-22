@@ -1,4 +1,4 @@
-# Hello-Fredi
+# Hello-Rani
 My first repository
 
 #include<stdio.h>
